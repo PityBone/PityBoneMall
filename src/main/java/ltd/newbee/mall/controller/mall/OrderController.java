@@ -202,7 +202,7 @@ public class OrderController {
         // 回调到订单页面
         return "redirect:"+ "www.baidu.com";
     }
-
+//ahahha
     // 异步回调
     // http://xxx.xxx.xxx/index?total_amout=0.01
     @RequestMapping("alipay/callback/notify")
